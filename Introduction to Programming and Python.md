@@ -3,5 +3,4 @@ Like humans converse with each other using many different languages such as Hind
 
 Inner working of a Python Program:
 
-Source Code (High Level Language) (c++, Java, Python) -----(Compiler)----> Byte Code 
-Byte Code -----(Interpreter)----> Machine Code ------------------> Output (Low Level Language) (0 or 1)
+Source Code (High Level Language) (c++, Java, Python) --(Compiler)--> Byte Code --(Interpreter)--> Machine Code -----> Output (Low Level Language) (0 or 1)
